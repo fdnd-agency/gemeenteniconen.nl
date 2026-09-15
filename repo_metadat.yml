@@ -1,7 +1,23 @@
 title: "Gemeenteniconen.nl"
 client: "Open Gemeenten"
-status: "active"
-years: [2]
-main_link: "https://gemeenteniconen.agency.fdnd.nl/"
-dev_link: "https://gemeenteniconen.dev.fdnd.nl/"
-tech_stack: ["SvelteKit", "Directus"]
+status: 'active'
+years: [1]
+main_link: ''
+dev_link: ''
+tech_stack: ['HTML', 'CSS', 'JavaScript']
+
+team:
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
